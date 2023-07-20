@@ -1,6 +1,6 @@
 # Rust Programming - Udemy Course 1
 
-This repo documents my progress and exercises to learn the Rust programming langauge following this [Udemy Course](https://www.udemy.com/share/102k223@eamqlWm-JLdnx6v3c6wvui5v5pMw2jx3bbZlGH3IDarul52XdzLVM_VpHcLbobX-Iw==/).
+This repo documents my progress and exercises to learn the Rust programming langauge following this [Udemy Course](https://www.udemy.com/course/rust-lang/?kw=rust+programming+language&src=sac).
 
 The course has the following sections:
 1. Introduction
