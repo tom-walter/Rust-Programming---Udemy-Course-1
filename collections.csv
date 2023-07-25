@@ -1,0 +1,9 @@
+﻿Collection;What it is;C++;C#;Java;Python
+Vec<T>;Dynamic (growable) array;vector;List;ArrayList;list
+VecDeque<T>;Double-ended queue;deque;;ArrayDeque;collections.deque
+LinkedList<T>;Doubly linked list;list;LinkedList;LinkedList;
+BinaryHeap<T> where T : Ord;Max heap;priority_queue;;PriorityQueue;heapq
+HashMap<K,V> where K : Eq+Hash;Dictionary (key-value table);unordered_map;Dictionary;HashMap;dict
+BTreeMap<K,V> where K: Ord;Sorted dictionary;map;SortedDictionary;TreeMap;collections.OrderedDict
+HashSet<T> where T : Eq+Hash;Hastable;unordered_set;HashSet;HashSet;set
+BTreeSet<T> where T : Ord;Sorted set;set;SortedSet;TreeSet;
