@@ -1,1 +1,1 @@
-C:\Users\TWalter\Tutorials\Rust\ Learning\Rust\ Programming\ -\ Udemy\ Course\phrases\target\debug\libphrases.rlib: C:\Users\TWalter\Tutorials\Rust\ Learning\Rust\ Programming\ -\ Udemy\ Course\phrases\src\lib.rs
+C:\Users\TWalter\Tutorials\Rust\ Learning\Rust-Programming-Udemy-Course-1\phrases\target\debug\libphrases.rlib: C:\Users\TWalter\Tutorials\Rust\ Learning\Rust-Programming-Udemy-Course-1\phrases\src\lib.rs
